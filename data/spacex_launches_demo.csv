@@ -1,0 +1,241 @@
+flight_number,date_utc,launch_site,orbit,payload_type,payload_mass_kg,landing_attempt,booster_reuse_count,landing_outcome,first_stage_reused,launch_cost_musd
+1,2010-06-01,CCAFS SLC-40,SSO,Government,7505.0,RTLS,0,Success but not recovered,0,91.3
+2,2010-06-24,CCAFS SLC-40,SSO,Dragon,5714.0,No attempt,0,No attempt,0,91.0
+3,2010-07-17,KSC LC-39A,LEO,Government,9547.0,RTLS,0,Success but not recovered,0,96.3
+4,2010-08-09,CCAFS SLC-40,GTO,Commercial,500.0,RTLS,2,Success,1,57.7
+5,2010-09-01,CCAFS SLC-40,GTO,Starlink,3855.0,RTLS,0,Failure,0,89.8
+6,2010-09-24,CCAFS SLC-40,SSO,rideshare,3996.0,Drone ship,0,Success,1,66.5
+7,2010-10-17,KSC LC-39A,GTO,Government,500.0,Drone ship,2,Success,1,67.1
+8,2010-11-09,CCAFS SLC-40,ISS,Government,3416.0,Drone ship,2,Failure,0,84.3
+9,2010-12-02,KSC LC-39A,ISS,Starlink,3572.0,RTLS,0,Success,1,60.8
+10,2010-12-25,KSC LC-39A,ISS,Dragon,5856.0,Drone ship,0,Success,1,67.4
+11,2011-01-17,KSC LC-39A,GTO,Starlink,10061.0,Drone ship,0,Failure,0,92.0
+12,2011-02-09,KSC LC-39A,SSO,rideshare,5716.0,Drone ship,1,Failure,0,90.8
+13,2011-03-04,KSC LC-39A,ISS,Commercial,3201.0,Drone ship,3,Failure,0,89.1
+14,2011-03-27,CCAFS SLC-40,LEO,Government,6318.0,Drone ship,0,Success,1,60.5
+15,2011-04-19,KSC LC-39A,LEO,Dragon,9857.0,RTLS,0,Failure,0,91.2
+16,2011-05-12,KSC LC-39A,SSO,Starlink,3377.0,RTLS,0,Failure,0,89.0
+17,2011-06-04,CCAFS SLC-40,SSO,Commercial,3586.0,Drone ship,4,Success,1,61.8
+18,2011-06-27,KSC LC-39A,LEO,Starlink,8287.0,Drone ship,0,Success,1,62.3
+19,2011-07-20,CCAFS SLC-40,LEO,Government,5791.0,Drone ship,1,Failure,0,87.3
+20,2011-08-12,KSC LC-39A,GTO,Commercial,8572.0,RTLS,0,Success but not recovered,0,92.1
+21,2011-09-04,KSC LC-39A,LEO,Government,6456.0,RTLS,0,Success,1,73.7
+22,2011-09-27,VAFB SLC-4E,SSO,Starlink,8745.0,Drone ship,4,Failure,0,82.9
+23,2011-10-21,VAFB SLC-4E,LEO,rideshare,3188.0,RTLS,0,Success,1,63.3
+24,2011-11-13,KSC LC-39A,LEO,rideshare,6461.0,Drone ship,1,Success,1,59.0
+25,2011-12-06,KSC LC-39A,MEO,Government,5826.0,Drone ship,5,Success,1,64.3
+26,2011-12-29,KSC LC-39A,LEO,Starlink,2609.0,No attempt,4,No attempt,0,90.2
+27,2012-01-21,CCAFS SLC-40,LEO,Dragon,1497.0,Drone ship,1,Success,1,65.0
+28,2012-02-13,VAFB SLC-4E,LEO,Starlink,8694.0,Drone ship,3,Failure,0,94.7
+29,2012-03-07,KSC LC-39A,LEO,Starlink,5377.0,Drone ship,5,Success but not recovered,0,90.8
+30,2012-03-30,CCAFS SLC-40,LEO,Commercial,3229.0,Drone ship,3,Success,1,66.5
+31,2012-04-22,CCAFS SLC-40,LEO,Government,6192.0,No attempt,3,No attempt,0,80.6
+32,2012-05-15,VAFB SLC-4E,LEO,rideshare,10110.0,No attempt,3,No attempt,0,96.4
+33,2012-06-07,CCAFS SLC-40,LEO,Starlink,500.0,Drone ship,5,Success,1,63.5
+34,2012-06-30,CCAFS SLC-40,GTO,Starlink,1711.0,Drone ship,2,Success,1,66.3
+35,2012-07-23,CCAFS SLC-40,GTO,Dragon,3547.0,RTLS,6,Success,1,57.1
+36,2012-08-15,CCAFS SLC-40,ISS,Starlink,11176.0,Drone ship,6,Success but not recovered,0,86.7
+37,2012-09-07,CCAFS SLC-40,LEO,Starlink,7404.0,No attempt,2,No attempt,0,90.6
+38,2012-09-30,KSC LC-39A,GTO,Dragon,8955.0,RTLS,6,Success but not recovered,0,89.9
+39,2012-10-23,CCAFS SLC-40,MEO,Starlink,2851.0,Drone ship,6,Success,1,63.1
+40,2012-11-15,VAFB SLC-4E,SSO,Commercial,2917.0,RTLS,5,Success,1,66.3
+41,2012-12-08,VAFB SLC-4E,LEO,Dragon,7933.0,Drone ship,4,Success,1,54.9
+42,2012-12-31,CCAFS SLC-40,LEO,Government,6686.0,Drone ship,5,Success,1,65.9
+43,2013-01-23,CCAFS SLC-40,LEO,Commercial,8256.0,Drone ship,7,Success,1,62.0
+44,2013-02-15,KSC LC-39A,LEO,Starlink,5899.0,Drone ship,3,Success,1,61.2
+45,2013-03-11,CCAFS SLC-40,GTO,Government,7390.0,RTLS,7,Success,1,56.1
+46,2013-04-03,CCAFS SLC-40,ISS,Government,7006.0,RTLS,7,Success,1,64.0
+47,2013-04-26,VAFB SLC-4E,LEO,Starlink,8989.0,No attempt,6,No attempt,0,80.3
+48,2013-05-19,VAFB SLC-4E,ISS,Starlink,9082.0,No attempt,4,No attempt,0,92.6
+49,2013-06-11,KSC LC-39A,GTO,Commercial,1316.0,Drone ship,6,Success but not recovered,0,84.0
+50,2013-07-04,CCAFS SLC-40,LEO,Starlink,500.0,Drone ship,4,Success,1,62.2
+51,2013-07-27,KSC LC-39A,SSO,Starlink,9706.0,RTLS,8,Success but not recovered,0,89.5
+52,2013-08-19,KSC LC-39A,LEO,Starlink,10301.0,No attempt,5,No attempt,0,94.7
+53,2013-09-11,CCAFS SLC-40,MEO,Government,3234.0,Drone ship,4,Success,1,61.3
+54,2013-10-04,KSC LC-39A,LEO,Commercial,549.0,Drone ship,7,Success,1,59.2
+55,2013-10-27,CCAFS SLC-40,SSO,Commercial,6817.0,Drone ship,7,Failure,0,88.0
+56,2013-11-19,CCAFS SLC-40,MEO,Government,9479.0,Drone ship,7,Failure,0,95.1
+57,2013-12-12,KSC LC-39A,HEO,Dragon,12252.0,RTLS,5,Failure,0,92.1
+58,2014-01-04,CCAFS SLC-40,SSO,Commercial,8152.0,Drone ship,8,Success,1,60.5
+59,2014-01-27,CCAFS SLC-40,SSO,Starlink,5311.0,RTLS,8,Success,1,61.1
+60,2014-02-19,VAFB SLC-4E,GTO,Starlink,3642.0,RTLS,8,Success,1,55.7
+61,2014-03-14,VAFB SLC-4E,SSO,Commercial,6537.0,RTLS,9,Failure,0,91.6
+62,2014-04-06,KSC LC-39A,LEO,Dragon,5542.0,Drone ship,6,Success but not recovered,0,83.0
+63,2014-04-29,VAFB SLC-4E,GTO,Commercial,3252.0,Drone ship,6,Success,1,65.0
+64,2014-05-22,VAFB SLC-4E,GTO,Government,13056.0,RTLS,9,Failure,0,90.5
+65,2014-06-14,CCAFS SLC-40,SSO,Commercial,12213.0,RTLS,8,Success,1,71.5
+66,2014-07-07,CCAFS SLC-40,ISS,Commercial,10135.0,Drone ship,8,Failure,0,85.6
+67,2014-07-31,CCAFS SLC-40,ISS,Commercial,3553.0,No attempt,7,No attempt,0,89.6
+68,2014-08-23,CCAFS SLC-40,GTO,Starlink,9236.0,Drone ship,9,Failure,0,97.2
+69,2014-09-15,KSC LC-39A,LEO,Starlink,8547.0,No attempt,9,No attempt,0,94.8
+70,2014-10-08,CCAFS SLC-40,LEO,Dragon,7916.0,Drone ship,6,Success,1,59.2
+71,2014-10-31,KSC LC-39A,ISS,Starlink,10499.0,Drone ship,8,Success,1,62.9
+72,2014-11-23,CCAFS SLC-40,ISS,Starlink,8533.0,Drone ship,10,Failure,0,90.0
+73,2014-12-16,CCAFS SLC-40,LEO,Government,8868.0,Drone ship,8,Success,1,63.1
+74,2015-01-08,VAFB SLC-4E,ISS,Starlink,8538.0,Drone ship,8,Success,1,59.2
+75,2015-01-31,CCAFS SLC-40,ISS,Starlink,7591.0,Drone ship,11,Failure,0,89.6
+76,2015-02-23,CCAFS SLC-40,ISS,Starlink,792.0,Drone ship,7,Success,1,55.6
+77,2015-03-18,CCAFS SLC-40,ISS,Starlink,6768.0,RTLS,8,Success,1,62.5
+78,2015-04-10,KSC LC-39A,GTO,Commercial,4720.0,Drone ship,9,Success,1,63.8
+79,2015-05-03,KSC LC-39A,LEO,Commercial,2405.0,RTLS,10,Success,1,61.1
+80,2015-05-26,KSC LC-39A,MEO,Government,11882.0,RTLS,7,Failure,0,83.5
+81,2015-06-18,CCAFS SLC-40,MEO,Commercial,12033.0,Drone ship,10,Success,1,66.0
+82,2015-07-11,CCAFS SLC-40,ISS,Starlink,10850.0,Drone ship,8,Success,1,63.5
+83,2015-08-03,VAFB SLC-4E,ISS,Government,7317.0,RTLS,11,Success,1,59.1
+84,2015-08-26,KSC LC-39A,GTO,Starlink,10822.0,RTLS,11,Success but not recovered,0,88.9
+85,2015-09-18,KSC LC-39A,SSO,Starlink,6539.0,Drone ship,10,Success,1,56.0
+86,2015-10-11,KSC LC-39A,GTO,Starlink,7149.0,RTLS,9,Failure,0,85.9
+87,2015-11-03,KSC LC-39A,SSO,Commercial,3001.0,Drone ship,8,Success,1,59.8
+88,2015-11-27,CCAFS SLC-40,GTO,Dragon,7770.0,Drone ship,12,Success but not recovered,0,94.9
+89,2015-12-20,CCAFS SLC-40,GTO,Starlink,6693.0,RTLS,12,Failure,0,87.4
+90,2016-01-12,KSC LC-39A,LEO,Dragon,2332.0,Drone ship,10,Failure,0,92.6
+91,2016-02-04,CCAFS SLC-40,SSO,Starlink,6336.0,RTLS,11,Failure,0,87.8
+92,2016-02-27,VAFB SLC-4E,LEO,Commercial,6245.0,Drone ship,12,Success,1,63.0
+93,2016-03-21,KSC LC-39A,GTO,Dragon,12252.0,RTLS,12,Success but not recovered,0,89.4
+94,2016-04-13,KSC LC-39A,SSO,Starlink,9361.0,Drone ship,11,Success,1,65.5
+95,2016-05-06,VAFB SLC-4E,LEO,Starlink,6537.0,Drone ship,10,Success,1,59.9
+96,2016-05-29,KSC LC-39A,GTO,Commercial,7296.0,Drone ship,12,Failure,0,83.7
+97,2016-06-21,VAFB SLC-4E,LEO,Starlink,6641.0,Drone ship,13,Success but not recovered,0,84.5
+98,2016-07-14,KSC LC-39A,SSO,Starlink,5851.0,RTLS,12,Success,1,59.9
+99,2016-08-06,VAFB SLC-4E,LEO,Starlink,3036.0,Drone ship,10,Success,1,57.0
+100,2016-08-29,CCAFS SLC-40,MEO,rideshare,6017.0,Drone ship,12,Success,1,63.6
+101,2016-09-21,KSC LC-39A,LEO,rideshare,4112.0,Drone ship,13,Success,1,60.1
+102,2016-10-14,KSC LC-39A,HEO,Commercial,2499.0,Drone ship,14,Success,1,71.5
+103,2016-11-06,CCAFS SLC-40,SSO,Starlink,8136.0,RTLS,12,Success,1,55.0
+104,2016-11-29,CCAFS SLC-40,GTO,rideshare,7752.0,Drone ship,11,Success,1,62.8
+105,2016-12-22,VAFB SLC-4E,SSO,Government,783.0,No attempt,13,No attempt,0,85.5
+106,2017-01-14,KSC LC-39A,SSO,Commercial,6107.0,Drone ship,11,Failure,0,88.0
+107,2017-02-06,CCAFS SLC-40,MEO,Dragon,9686.0,RTLS,11,Success,1,62.6
+108,2017-03-01,CCAFS SLC-40,LEO,Starlink,9890.0,Drone ship,14,Failure,0,80.7
+109,2017-03-24,CCAFS SLC-40,GTO,Starlink,9783.0,Drone ship,15,Success but not recovered,0,90.9
+110,2017-04-17,CCAFS SLC-40,LEO,rideshare,6625.0,No attempt,15,No attempt,0,97.6
+111,2017-05-10,VAFB SLC-4E,GTO,Dragon,3796.0,No attempt,13,No attempt,0,88.2
+112,2017-06-02,CCAFS SLC-40,LEO,Starlink,3032.0,No attempt,11,No attempt,0,91.0
+113,2017-06-25,CCAFS SLC-40,GTO,Starlink,7603.0,Drone ship,16,Failure,0,94.1
+114,2017-07-18,KSC LC-39A,GTO,Commercial,7714.0,Drone ship,14,Success,1,61.3
+115,2017-08-10,CCAFS SLC-40,ISS,Starlink,10619.0,RTLS,13,Success,1,59.7
+116,2017-09-02,CCAFS SLC-40,GTO,Government,10020.0,Drone ship,16,Failure,0,80.9
+117,2017-09-25,KSC LC-39A,SSO,Government,6077.0,RTLS,15,Success but not recovered,0,92.6
+118,2017-10-18,KSC LC-39A,SSO,Commercial,2519.0,Drone ship,15,Success,1,61.5
+119,2017-11-10,VAFB SLC-4E,GTO,Dragon,5479.0,Drone ship,13,Success,1,57.9
+120,2017-12-03,KSC LC-39A,GTO,Commercial,7195.0,RTLS,16,Success,1,62.5
+121,2017-12-26,KSC LC-39A,MEO,Commercial,5853.0,RTLS,15,Success,1,59.7
+122,2018-01-18,KSC LC-39A,LEO,Commercial,4651.0,Drone ship,15,Success,1,59.9
+123,2018-02-10,VAFB SLC-4E,LEO,Starlink,7309.0,Drone ship,16,Success,1,64.4
+124,2018-03-05,KSC LC-39A,LEO,Starlink,4887.0,Drone ship,16,Failure,0,84.6
+125,2018-03-28,VAFB SLC-4E,GTO,Starlink,4490.0,Drone ship,13,Success,1,66.2
+126,2018-04-20,KSC LC-39A,ISS,Dragon,7497.0,Drone ship,14,Success,1,56.4
+127,2018-05-13,VAFB SLC-4E,SSO,Starlink,5214.0,Drone ship,14,Success,1,59.3
+128,2018-06-05,CCAFS SLC-40,GTO,Starlink,7281.0,RTLS,17,Failure,0,97.7
+129,2018-06-28,KSC LC-39A,ISS,Starlink,7374.0,RTLS,17,Success,1,66.5
+130,2018-07-21,CCAFS SLC-40,MEO,Commercial,2854.0,Drone ship,15,Failure,0,90.4
+131,2018-08-13,KSC LC-39A,SSO,Starlink,4960.0,Drone ship,17,Failure,0,86.2
+132,2018-09-06,KSC LC-39A,LEO,rideshare,11101.0,Drone ship,17,Success,1,59.9
+133,2018-09-29,VAFB SLC-4E,ISS,Commercial,2781.0,Drone ship,15,Success,1,62.3
+134,2018-10-22,VAFB SLC-4E,LEO,Starlink,500.0,Drone ship,16,Success,1,62.2
+135,2018-11-14,CCAFS SLC-40,LEO,Commercial,542.0,Drone ship,18,Success,1,61.6
+136,2018-12-07,KSC LC-39A,LEO,Starlink,6593.0,RTLS,16,Success but not recovered,0,89.9
+137,2018-12-30,KSC LC-39A,MEO,rideshare,6599.0,Drone ship,15,Success,1,61.1
+138,2019-01-22,CCAFS SLC-40,ISS,Dragon,6124.0,Drone ship,18,Success but not recovered,0,84.2
+139,2019-02-14,CCAFS SLC-40,ISS,Government,10385.0,Drone ship,17,Success,1,59.9
+140,2019-03-09,CCAFS SLC-40,SSO,Starlink,500.0,No attempt,17,No attempt,0,93.7
+141,2019-04-01,KSC LC-39A,GTO,Dragon,7767.0,RTLS,18,Success,1,56.5
+142,2019-04-24,KSC LC-39A,MEO,Dragon,11497.0,Drone ship,19,Failure,0,89.2
+143,2019-05-17,VAFB SLC-4E,SSO,rideshare,2891.0,No attempt,16,No attempt,0,86.7
+144,2019-06-09,KSC LC-39A,ISS,Commercial,5285.0,Drone ship,17,Success,1,62.4
+145,2019-07-02,VAFB SLC-4E,ISS,Dragon,4091.0,Drone ship,16,Success,1,60.4
+146,2019-07-25,CCAFS SLC-40,HEO,Starlink,3638.0,No attempt,19,No attempt,0,95.9
+147,2019-08-17,KSC LC-39A,SSO,Starlink,5456.0,Drone ship,18,Success,1,64.0
+148,2019-09-09,CCAFS SLC-40,HEO,Dragon,11068.0,Drone ship,17,Success but not recovered,0,84.8
+149,2019-10-02,KSC LC-39A,LEO,Dragon,12380.0,Drone ship,19,Success,1,64.7
+150,2019-10-25,VAFB SLC-4E,SSO,Starlink,5425.0,Drone ship,18,Success,1,58.9
+151,2019-11-17,VAFB SLC-4E,GTO,Government,12596.0,RTLS,18,Failure,0,87.7
+152,2019-12-10,VAFB SLC-4E,LEO,rideshare,6614.0,Drone ship,18,Success,1,63.3
+153,2020-01-02,CCAFS SLC-40,GTO,Starlink,12112.0,Drone ship,18,Failure,0,88.0
+154,2020-01-26,CCAFS SLC-40,GTO,Commercial,6201.0,Drone ship,17,Success,1,65.6
+155,2020-02-18,CCAFS SLC-40,LEO,Starlink,6919.0,Drone ship,21,Failure,0,86.9
+156,2020-03-12,CCAFS SLC-40,ISS,Commercial,7670.0,Drone ship,17,Success,1,59.5
+157,2020-04-04,KSC LC-39A,SSO,Starlink,16000.0,Drone ship,18,Success,1,59.4
+158,2020-04-27,KSC LC-39A,LEO,Commercial,9224.0,RTLS,20,Success,1,59.7
+159,2020-05-20,KSC LC-39A,ISS,Commercial,4237.0,Drone ship,17,Success,1,66.4
+160,2020-06-12,VAFB SLC-4E,ISS,Government,9601.0,Drone ship,20,Success,1,64.5
+161,2020-07-05,KSC LC-39A,LEO,Starlink,5342.0,Drone ship,21,Success,1,68.8
+162,2020-07-28,VAFB SLC-4E,MEO,rideshare,4933.0,Drone ship,21,Success,1,71.1
+163,2020-08-20,CCAFS SLC-40,SSO,Starlink,9408.0,Drone ship,19,Success,1,57.9
+164,2020-09-12,CCAFS SLC-40,LEO,Starlink,6599.0,Drone ship,18,Success but not recovered,0,90.3
+165,2020-10-05,KSC LC-39A,HEO,Commercial,7391.0,Drone ship,22,Success,1,57.3
+166,2020-10-28,VAFB SLC-4E,MEO,Starlink,6545.0,No attempt,19,No attempt,0,86.9
+167,2020-11-20,CCAFS SLC-40,LEO,Government,7577.0,No attempt,22,No attempt,0,87.5
+168,2020-12-13,KSC LC-39A,SSO,Government,7860.0,Drone ship,18,Success,1,57.8
+169,2021-01-05,KSC LC-39A,LEO,Starlink,500.0,Drone ship,19,Success,1,57.8
+170,2021-01-28,CCAFS SLC-40,HEO,rideshare,8633.0,Drone ship,22,Failure,0,89.4
+171,2021-02-20,CCAFS SLC-40,GTO,Starlink,3358.0,Drone ship,23,Failure,0,85.1
+172,2021-03-15,VAFB SLC-4E,GTO,Dragon,1885.0,Drone ship,23,Success,1,65.4
+173,2021-04-07,KSC LC-39A,LEO,Starlink,6313.0,RTLS,22,Success,1,58.3
+174,2021-04-30,CCAFS SLC-40,MEO,rideshare,6769.0,RTLS,20,Failure,0,101.2
+175,2021-05-24,VAFB SLC-4E,LEO,Starlink,4281.0,RTLS,23,Success,1,60.2
+176,2021-06-16,CCAFS SLC-40,LEO,Starlink,9159.0,Drone ship,22,Success,1,62.3
+177,2021-07-09,VAFB SLC-4E,LEO,Dragon,2205.0,No attempt,20,No attempt,0,84.8
+178,2021-08-01,CCAFS SLC-40,SSO,rideshare,5198.0,Drone ship,20,Success,1,68.8
+179,2021-08-24,KSC LC-39A,LEO,rideshare,4628.0,Drone ship,24,Success but not recovered,0,94.5
+180,2021-09-16,CCAFS SLC-40,MEO,Government,6351.0,Drone ship,21,Success,1,63.2
+181,2021-10-09,CCAFS SLC-40,GTO,rideshare,7392.0,No attempt,23,No attempt,0,84.6
+182,2021-11-01,VAFB SLC-4E,LEO,rideshare,3275.0,Drone ship,20,Success,1,62.8
+183,2021-11-24,CCAFS SLC-40,LEO,Dragon,8818.0,RTLS,21,Success,1,57.5
+184,2021-12-17,CCAFS SLC-40,LEO,Starlink,6702.0,Drone ship,21,Success,1,67.8
+185,2022-01-09,CCAFS SLC-40,GTO,Government,500.0,No attempt,22,No attempt,0,93.2
+186,2022-02-01,KSC LC-39A,SSO,Commercial,500.0,Drone ship,24,Success,1,62.4
+187,2022-02-24,VAFB SLC-4E,LEO,Starlink,6461.0,Drone ship,25,Success,1,52.3
+188,2022-03-19,VAFB SLC-4E,SSO,Starlink,5793.0,No attempt,25,No attempt,0,86.1
+189,2022-04-11,CCAFS SLC-40,LEO,Government,6169.0,Drone ship,24,Success,1,64.8
+190,2022-05-04,CCAFS SLC-40,SSO,Starlink,6410.0,Drone ship,22,Success,1,66.9
+191,2022-05-27,CCAFS SLC-40,MEO,rideshare,7222.0,Drone ship,25,Failure,0,94.4
+192,2022-06-19,KSC LC-39A,SSO,Starlink,9532.0,Drone ship,23,Failure,0,83.6
+193,2022-07-12,VAFB SLC-4E,GTO,Starlink,2944.0,Drone ship,24,Success,1,63.2
+194,2022-08-04,KSC LC-39A,SSO,Government,2750.0,Drone ship,25,Success,1,66.1
+195,2022-08-27,KSC LC-39A,LEO,Starlink,3001.0,Drone ship,25,Failure,0,83.4
+196,2022-09-19,CCAFS SLC-40,LEO,Starlink,7425.0,RTLS,26,Success,1,62.0
+197,2022-10-13,VAFB SLC-4E,LEO,Commercial,10484.0,Drone ship,24,Success,1,63.1
+198,2022-11-05,KSC LC-39A,GTO,rideshare,5120.0,Drone ship,25,Success,1,60.8
+199,2022-11-28,CCAFS SLC-40,SSO,Starlink,500.0,Drone ship,25,Success,1,54.6
+200,2022-12-21,CCAFS SLC-40,GTO,Starlink,1047.0,Drone ship,23,Failure,0,88.7
+201,2023-01-13,CCAFS SLC-40,SSO,Government,3834.0,RTLS,24,Success,1,60.7
+202,2023-02-05,CCAFS SLC-40,LEO,rideshare,4715.0,No attempt,26,No attempt,0,89.4
+203,2023-02-28,CCAFS SLC-40,SSO,Dragon,5193.0,No attempt,23,No attempt,0,87.7
+204,2023-03-23,KSC LC-39A,LEO,Starlink,6623.0,Drone ship,24,Success,1,60.2
+205,2023-04-15,KSC LC-39A,LEO,Starlink,5502.0,Drone ship,26,Success,1,61.8
+206,2023-05-08,CCAFS SLC-40,GTO,Starlink,9858.0,Drone ship,27,Success,1,63.8
+207,2023-05-31,CCAFS SLC-40,HEO,Starlink,4337.0,Drone ship,25,Success,1,60.8
+208,2023-06-23,VAFB SLC-4E,GTO,Commercial,3741.0,Drone ship,24,Success,1,60.4
+209,2023-07-16,KSC LC-39A,LEO,Starlink,8032.0,RTLS,26,Success,1,62.4
+210,2023-08-08,KSC LC-39A,GTO,Dragon,1586.0,Drone ship,27,Success,1,54.3
+211,2023-08-31,CCAFS SLC-40,LEO,Commercial,7747.0,Drone ship,26,Success,1,63.9
+212,2023-09-23,VAFB SLC-4E,MEO,Commercial,6828.0,Drone ship,24,Success,1,62.0
+213,2023-10-16,CCAFS SLC-40,GTO,Starlink,6028.0,Drone ship,26,Success,1,62.2
+214,2023-11-08,CCAFS SLC-40,LEO,Government,11582.0,Drone ship,26,Failure,0,93.8
+215,2023-12-01,VAFB SLC-4E,LEO,Commercial,4509.0,Drone ship,27,Success,1,54.2
+216,2023-12-24,KSC LC-39A,LEO,Commercial,13093.0,RTLS,28,Failure,0,82.1
+217,2024-01-16,KSC LC-39A,HEO,Starlink,5779.0,Drone ship,29,Success,1,63.1
+218,2024-02-08,KSC LC-39A,ISS,Starlink,2414.0,Drone ship,28,Success,1,62.0
+219,2024-03-03,KSC LC-39A,SSO,rideshare,6724.0,Drone ship,26,Success,1,62.7
+220,2024-03-26,CCAFS SLC-40,GTO,Starlink,3056.0,RTLS,27,Success,1,60.2
+221,2024-04-18,CCAFS SLC-40,GTO,Starlink,4094.0,Drone ship,25,Success,1,64.7
+222,2024-05-11,CCAFS SLC-40,LEO,Dragon,7771.0,RTLS,29,Success,1,65.7
+223,2024-06-03,CCAFS SLC-40,MEO,Commercial,8278.0,No attempt,29,No attempt,0,91.9
+224,2024-06-26,VAFB SLC-4E,LEO,rideshare,4509.0,Drone ship,29,Success,1,61.0
+225,2024-07-19,CCAFS SLC-40,GTO,Starlink,9660.0,RTLS,27,Failure,0,81.6
+226,2024-08-11,KSC LC-39A,GTO,rideshare,10204.0,Drone ship,27,Success,1,65.1
+227,2024-09-03,KSC LC-39A,GTO,Starlink,11096.0,No attempt,30,No attempt,0,94.9
+228,2024-09-26,KSC LC-39A,MEO,Commercial,8194.0,Drone ship,28,Success,1,64.6
+229,2024-10-19,CCAFS SLC-40,LEO,Commercial,10863.0,No attempt,29,No attempt,0,86.5
+230,2024-11-11,KSC LC-39A,GTO,Starlink,500.0,Drone ship,28,Success,1,64.7
+231,2024-12-04,VAFB SLC-4E,ISS,Starlink,5483.0,Drone ship,28,Success,1,65.4
+232,2024-12-27,KSC LC-39A,ISS,Starlink,3726.0,Drone ship,29,Success,1,68.2
+233,2025-01-19,VAFB SLC-4E,LEO,rideshare,6882.0,RTLS,31,Failure,0,86.5
+234,2025-02-11,VAFB SLC-4E,LEO,Commercial,4671.0,Drone ship,28,Success but not recovered,0,89.1
+235,2025-03-06,KSC LC-39A,LEO,rideshare,5968.0,Drone ship,31,Success,1,65.0
+236,2025-03-29,CCAFS SLC-40,LEO,Government,12523.0,RTLS,28,Failure,0,90.2
+237,2025-04-21,KSC LC-39A,ISS,Dragon,5957.0,RTLS,29,Failure,0,85.5
+238,2025-05-14,CCAFS SLC-40,GTO,Government,7824.0,Drone ship,31,Success but not recovered,0,91.7
+239,2025-06-06,KSC LC-39A,GTO,Starlink,5757.0,Drone ship,31,Success,1,64.3
+240,2025-06-30,VAFB SLC-4E,ISS,Starlink,6742.0,Drone ship,31,Failure,0,90.4
